@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "¿Estamos cumpliendo el Plandepa?"
-date: 2019-07-25 12:00:00
-categories: jekyll
-featured_image: /images/plandepa1.jpg
+author: "Harold Farfán Reto"
+categories: post
+tags: [sample]
+image: plandepa1.jpg
 ---
-
 Los indicadores de evaluación del Plan Nacional de Desarrollo para la Población Afroperuana (PLANDEPA) incluyen algunas metas cuyo cumplimiento convendría confrontar con la Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial, elaborada por IPSOS y encargada por el Ministerio de Cultura, encargado de la implementación de este plan. Las metas son las siguientes:
 
 ## Objetivo Estratégico 1
