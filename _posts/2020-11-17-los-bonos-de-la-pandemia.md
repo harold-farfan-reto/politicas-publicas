@@ -4,7 +4,7 @@ title: "Los bonos de la pandemia: ¿una política exitosa?"
 author: "Harold Farfán Reto"
 categories: post
 tags: [sample]
-image: pandemia1.jpeg
+image: pandemia1.jpg
 ---
 En el marco de la emergencia sanitaria de este año, el Gobierno ha decretado la entrega de bonos económicos a los sectores declarados como más vulnerables. Esta política responde, por un lado, a la necesidad de atenuar lo más posible la contracción de la economía, que ha sido un resultado inevitable de la pérdida de 2.3 millones de puestos de empleo y la consiguiente pérdida de capacidad adquisitiva, y, por otro lado, también tuvo como finalidad brindar soporte tanto a las familias que perdieron sus ingresos económicos por la pandemia como a la población en general.
 
