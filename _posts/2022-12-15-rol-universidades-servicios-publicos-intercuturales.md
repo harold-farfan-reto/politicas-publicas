@@ -4,7 +4,7 @@ title: "El rol de las universidades en la creación de servicios públicos inter
 author: "Harold Farfán Reto"
 categories: post
 tags: [sample]
-image: serviciospublicos1.jpg
+image: serviciospublicos2.jpg
 ---
 Han pasado 15 años de la [Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007)](https://www.un.org/development/desa/indigenous-peoples-es/declaracion-sobre-los-derechos-de-los-pueblos-indigenas.html). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se ha tenido avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. Una de las iniciativas más necesarias y ambiciosas de implementar es la creación de servicios públicos interculturales, para lo cual se necesita la participación de toda la sociedad, incluidas, en mi opinión, las universidades.
 
