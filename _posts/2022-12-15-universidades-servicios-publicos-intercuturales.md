@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El rol de las universidades en la creación de servicios públicos interculturales"
+title: "El rol de la universidad en la creación de servicios públicos interculturales"
 author: "Harold Farfán Reto"
 categories: post
 tags: [sample]
