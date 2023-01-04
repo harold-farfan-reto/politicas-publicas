@@ -8,14 +8,13 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Entradas',           url: 'entradas'}
-- {name: 'Documentation',      url: 'documentation'}
 - {name: 'Autor',              url: 'autor'}
-- {name: 'Contacto',            url: 'contact'}
+- {name: 'Contacto',           url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/'}
+- {icon: 'facebook', link:   'https://www.facebook.com/profile.php?id=100004453846003'}
 - {icon: 'linkedin', link:   'https://www.linkedin.com/in/haroldfarfanreto/'}
 - {icon: 'envelope', link:   'mailto:hfarfanreto@pm.me'}
 - {icon: 'rss-square', link: 'feed.xml'}
@@ -28,6 +27,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'También te puede interesar:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito el'
