@@ -26,7 +26,7 @@ pagination:
   next_page: 'Nuevos'
   previous_page: 'Antiguos'
 
-sharing_button_prompt: 'Comparte este post:'
+sharing_button_prompt: 'Comparte este post'
 
 related_posts: 'También te puede interesar:'
 
