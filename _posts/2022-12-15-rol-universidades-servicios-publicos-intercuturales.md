@@ -109,8 +109,7 @@ La práctica nos demuestra que las competencias interculturales en el servicio p
 
 Uno de los mejores ejemplos lo encontramos en la intervención "Nacer bien en la Amazonía Indígena" de la Dirección Regional de Salud de Loreto, la cual, mediante la adopción de un enfoque intercultural en los servicios de salud materno neonatales, logró reducir en un solo año casi el 40% las muertes maternas en los establecimientos de salud de Indiana, Mazán y Nauta. Esto no hubiera sido posible sin la existencia de servidores públicos capacitados en el enfoque intercultural.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1Me6z00Hvrc" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Me6z00Hvrc" frameborder="0" allowfullscreen></iframe>
 
 Así, se hace claro que la formación de competencias interculturales en la educación superior no solamente tiene base en los derechos de los pueblos indígenas y es una obligación normativa, sino que también tiene un efecto práctico, pues sirve para promover la eficiencia de los servicios brindados. 
 
