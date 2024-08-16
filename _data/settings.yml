@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Entradas',           url: 'sample-posts'}
+- {name: 'Entradas',           url: 'posts'}
 - {name: 'Este blog',          url: 'about'}
 - {name: 'Autor',              url: 'autor'}
 - {name: 'Contacto',           url: 'contacto'}
