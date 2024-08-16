@@ -4,4 +4,4 @@ title: Contacto
 permalink: /contacto
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Puedes contactarme principalmente a través de mi [correo personal](mailto:hfarfaneto@pm.me). Además, te invito a visitar mi [página personal](https://www.haroldfarfanreto.com) y mi [blog de teatro](https://www.haroldfarfanreto.net). Mis otras redes sociales aparecen en el encabezado de la página.
