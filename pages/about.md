@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Este blog está dedicado a compartir noticias y reflexiones personales acerca de las políticas públicas en el Perú, principalmente de aquellas relacionadas con las políticas lingüísticas, como las educativas. Sin embargo, me interesan en general aquellas que afectan los derechos humanos en nuestro país y el acceso a la justicia. ¡Espero que lo que encuentres aquí sea de ayuda para tu búsqueda!
